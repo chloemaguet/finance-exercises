@@ -1,0 +1,2 @@
+# finance-exercises
+* lectures Python
